@@ -1,0 +1,15 @@
+i2c_address: 0x40
+# keys are motor entries
+# pca_channle is the pca channel for that motor
+# speed is % duty cycle, 0 - 100
+motors:
+  0:
+    pca_channel: 0
+    speed: 10 # 
+  1:
+    pca_channel: 1
+    speed: 50
+  2:
+    pca_channel: 2
+    speed: 100
+

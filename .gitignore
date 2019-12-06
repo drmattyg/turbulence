@@ -1,0 +1,11 @@
+*.pyc
+._*
+.idea/
+venv/
+env
+.DS_Store
+conf/default-mod.yml
+gui/out
+gui/node_modules
+package-lock.json
+cal
